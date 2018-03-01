@@ -1,3 +1,8 @@
+===================
+notes for this fork
+===================
+This fork of https://github.com/shayh/django-vertica/ is only lightly maintained and contains updates that allow the django-vertica connector to run on Django version 1.11
+
 =============
 django-pyodbc
 =============
